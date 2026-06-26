@@ -9,4 +9,10 @@
 ✅ Garak LLM scan configurat săptămânal
 🌙 Cache layer activ
 
-## Status: **Activ**
+|## Status: **Activ**
+
+---
+
+## 25 Iunie — Pornit
+- Serverul ruleaza pe port 8888 (background, venh hexstrike_env cu mitmproxy + flask + fastmcp)
+- Anterior: serverul era pe disk dar nu pornea (lipsea venv)
